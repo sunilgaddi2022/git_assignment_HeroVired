@@ -1,6 +1,8 @@
 # git_assignment_HeroVired
 git_assignment_HeroVired - Assignment Repository created by Sunil Gaddi
 
+QUESTION : 01 ==================================================================
+
 Steps Followed:
 git clone <repository_url>
 
@@ -36,3 +38,5 @@ git push origin feature/sqrt
 git tag -a v2.0 -m "Version 2.0 release"
 git push origin v2.0
 
+
+QUESTION : 02 ==================================================================
